@@ -104,6 +104,7 @@ public class PacketHandler
 				int newX = Integer.parseInt(parsedPacket[3]);
 				int newY = Integer.parseInt(parsedPacket[4]);
 
+				// Mirrors the piece
 				oldX = (7 - oldX);
 				oldY = (7 - oldY);
 				newX = (7 - newX);
