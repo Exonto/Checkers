@@ -27,7 +27,7 @@ location. Pieces may jump other pieces as many times as possible and will be "ki
 if they reach the opposite end of the board. There is currently a little bit of lag
 when the very first piece is kinged. Kings may then move and jump backwards.
 
-Important: If player 1 captures player 2s checker piece, player 1 must click the
+Important: If player 1 captures player 2's checker piece, player 1 must click the
            "End Turn" button to confirm the end of his/her turn. This is only 
            needed after having captured a piece in order to allow multiple
            jumps. Otherwise, turns are ended automatically.
