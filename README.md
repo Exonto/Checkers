@@ -37,4 +37,4 @@ Important: If player 1 captures player 2s checker piece, player 1 must click the
            worked on.
 
 
-How to player checkers: "https://www.youtube.com/watch?v=SuQY1_fCVsA&ab_channel=About.com"
+How to play checkers: "https://www.youtube.com/watch?v=SuQY1_fCVsA&ab_channel=About.com"
